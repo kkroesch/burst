@@ -2,4 +2,4 @@
 
 Animated Generator for Final Cut Pro.
 
-![](Burst/large.png)
+![](Burst/burst-badge.webp)
